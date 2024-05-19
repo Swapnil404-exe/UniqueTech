@@ -12,7 +12,7 @@ const Navbar = () => {
                             <span className="icon-bar"></span>
                             <span className="icon-bar"></span>
                         </button>
-                        <a className="navbar-brand" href="index.html"/><img src="assets/images/logo.png" alt=""/>
+                        <a className="navbar-brand" href="index.html"/><img src="./src/assets/images/logo.png" alt=""/>
                     </div>
 
                     
